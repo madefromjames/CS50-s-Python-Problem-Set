@@ -24,5 +24,5 @@ Recall that a str comes with quite a few methods, per https://docs.python.org/3/
 Run your program with python extensions.py.
 Type happy.jpg and press Enter. Your program should output:
 image/jpeg   
-ype document.pdf and press Enter. Your program should output:
+Type document.pdf and press Enter. Your program should output:
 application/pdf
