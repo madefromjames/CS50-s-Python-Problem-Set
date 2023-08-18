@@ -33,7 +33,7 @@ If up for a challenge, optionally add support for 12-hour times, allowing the us
 
 #:## p.m. and ##:## p.m.
 
-#How to Test
+# How to Test
 Run your program with python meal.py.
 Type 7:00 and press Enter. Your program should output:
 breakfast time   
