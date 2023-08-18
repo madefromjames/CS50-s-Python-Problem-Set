@@ -7,7 +7,7 @@ In a file called bank.py, implement a program that prompts the user for a greeti
 
 Hints:
 
-Recall that a str comes with quite a few methods, per https://docs.python.org/3/library/stdtypes.html#string-methods
+Recall that a str comes with quite a few methods, per https://docs.python.org/3/library/stdtypes.html#string-methods.
 
 Be sure to give $0 not only for “hello” but also “hello there”, “hello, Newman”, and the like
 
