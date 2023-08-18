@@ -41,7 +41,7 @@ wherein d is a dict and key is a str.
 
 Be sure to avoid or catch any KeyError.
 
-How to Test
+# How to Test
 Run your program with python taqueria.py.
 Type Taco and press Enter, then type Taco again and press Enter. Your program should output:
 Total: $6.00  
