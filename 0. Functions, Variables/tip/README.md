@@ -32,11 +32,11 @@ Assume that the user will input values in the expected formats.
 
 Hints:
 
-Recall that input returns a str, per docs.python.org/3/library/functions.html#input
+Recall that input returns a str, per https://docs.python.org/3/library/functions.html#input.
 
-Recall that float can convert a str to a float, per docs.python.org/3/library/functions.html#float
+Recall that float can convert a str to a float, per https://docs.python.org/3/library/functions.html#float.
 
-Recall that a str comes with quite a few methods, per docs.python.org/3/library/stdtypes.html#string-methods
+Recall that a str comes with quite a few methods, per https://docs.python.org/3/library/stdtypes.html#string-methods.
 
 # How to Test
 Run your program with python tip.py. 
