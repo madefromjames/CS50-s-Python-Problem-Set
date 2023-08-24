@@ -26,7 +26,7 @@ Adieu, adieu, to Liesl, Friedrich, Louisa, Kurt, Brigitta, and Marta
 
 Adieu, adieu, to Liesl, Friedrich, Louisa, Kurt, Brigitta, Marta, and Gretl
 
-Hints
+Hints:
 
 Note that the inflect module comes with quite a few methods, per https://pypi.org/project/inflect. You can install it with:
 pip install inflect
